@@ -11,3 +11,4 @@ Projekt został oceniony na 50/50 punktów. Powinien być w pełni poprawny, cho
 - poza tym sprawdzał jak wygladają wykresy, czy dla różnych *n* wyglądają mniej więcej tak samo
 
 Mam nadzieję, że przedstawiona zawartość jest przydatna. Korzystajcie rozważnie!
+UWAGA! Miałem temat 1 a nie 3, bo prowadzący przydzielał tematy po liście, nie wg algorytmu.
